@@ -1,4 +1,4 @@
-# hola-mundo
+# Hola Mundo
 Primer repositorio
 
 Autor: Guillermo Olivares
